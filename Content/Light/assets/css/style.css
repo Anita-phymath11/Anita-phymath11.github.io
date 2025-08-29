@@ -230,6 +230,9 @@ h3 {
     flex-direction: column;
     gap: 2vh;
   }
+  .meisampic-2{
+    width: 30%;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -1559,5 +1562,3 @@ span{
 .white-theme{
   color: black;
 }
-
-
