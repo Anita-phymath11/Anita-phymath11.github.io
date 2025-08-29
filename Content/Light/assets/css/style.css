@@ -265,7 +265,7 @@ h3 {
 
 @media (max-width: 1199.98px) {
   .custom-col {
-    flex: 0 5 100% !important;
+    flex: 0 0 100% !important;
     max-width: 100% !important;
   }
 }
@@ -1559,4 +1559,5 @@ span{
 .white-theme{
   color: black;
 }
+
 
