@@ -263,6 +263,9 @@ h3 {
     display: flex;
     flex-direction: row;
   }
+  .meisampic-2{
+    width: 50%;
+  }
 
 }
 
