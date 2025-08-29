@@ -192,7 +192,11 @@ h3 {
     flex-direction: column;
     gap: 2vh;
   }
+  .meisampic-2{
+    width: 30%;
+  }
 }
+
 
 
 
@@ -1462,9 +1466,9 @@ a {
   width: 100%;
   padding: 10px;
   margin: 6px 0;
-  border: 1px solid #ccc;
+  border: 0.4vh solid #ccc;
   border-radius: 8px;
-  font-size: 14px;
+  font-size: 2.5vh;
   box-sizing: border-box;
 }
 
@@ -1555,4 +1559,3 @@ span{
 .white-theme{
   color: black;
 }
-
